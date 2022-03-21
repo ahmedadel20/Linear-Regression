@@ -1,2 +1,2 @@
-# LinearRegression
-Linear Regression on Kaggle.
+# Linear Regression
+Linear Regression using Kaggle.
